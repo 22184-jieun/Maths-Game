@@ -1,0 +1,3 @@
+multiplication,Thamil,7220
+multiplication,Nittya,3700
+exponents,Ben,35640

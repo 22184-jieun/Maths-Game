@@ -1,0 +1,3 @@
+girl,Thamil,multiplication,easy
+girl,Nittya,multiplication,easy
+boy,Ben,exponents,easy
